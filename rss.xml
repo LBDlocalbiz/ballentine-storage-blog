@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ballentine Storage Blog</title>
+    <description>Storage tips, moving guides, and news from Ballentine Storage in Irmo, SC.</description>
+    <link>https://blog.ballentinestorage.com/</link>
+    <atom:link href="https://blog.ballentinestorage.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>2026-03-17</lastBuildDate>
+
+    <item>
+      <title>Welcome to the Ballentine Storage Blog</title>
+      <description>Your go-to resource for storage tips, moving guides, and facility news from Ballentine Storage.</description>
+      <link>https://blog.ballentinestorage.com/posts/2026-03-17-welcome-to-ballentine-storage-blog</link>
+      <guid>https://blog.ballentinestorage.com/posts/2026-03-17-welcome-to-ballentine-storage-blog</guid>
+      <pubDate>2026-03-17</pubDate>
+    </item>
+  </channel>
+</rss>

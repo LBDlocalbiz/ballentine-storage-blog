@@ -1,0 +1,11 @@
+# Ballentine Storage Blog - robots.txt
+# https://blog.ballentinestorage.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://blog.ballentinestorage.com/sitemap.xml
+
+# Disallow template files
+Disallow: /posts/_post-template.html
